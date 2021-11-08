@@ -3,7 +3,7 @@ I have created simple project to create RESTFul api for crud operation using mon
 
 Add Record using rest call into mongodb database<br/>
 Edit Record using rest call into mongodb database<br/>
-Delete Record using rest call into mongodb database<br/>
+Delete Record of particular id using rest call into mongodb database<br/>
 view records of particular id using rest call into mongodb database<br/>
 
 
@@ -11,5 +11,6 @@ view records of particular id using rest call into mongodb database<br/>
 you need to create a .env file than add your mongodb DATABASE 
 
 # How to run nodejs application
+cd server<br/>
 run 'npm install'<br/>
 run 'npm start' - it will start nodemon server automatically
